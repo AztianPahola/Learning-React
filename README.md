@@ -1,69 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br />
 This project is built and published to [GitPages](https://aztianpahola.github.io/Learning-React/) through Travis-CI.
 
-## Available Scripts
+## Preface
 
-In the project directory, you can run:
+This project was largely created through the tutorial described in Robin Wieruch's ['The Road to React'](https://www.roadtoreact.com/) as part of an in-class process to educate us regarding React, version control and continuous integration.
 
-### `npm start`
+## My Contribution
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Following the tutorial within the book was of course not the main objective of this project.
+Our task was to take the project and build upon it using tools of continuous integration and version control.
+In my case, these were Travis-CI and Git.
+This of course is the github page, the Travis-CI page can be found [Here](https://travis-ci.org/github/AztianPahola/Learning-React)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Using these tools, any change made to the repository is automatically tested through YAML scripts calling tests within the project.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Cookie functionality and candy-striped search results were provided by [jthommiller](https://github.com/jthommiller)
